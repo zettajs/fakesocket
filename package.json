@@ -1,0 +1,29 @@
+{
+  "name": "fakesocket",
+  "version": "0.0.1",
+  "description": "Fake socket for manipulating http internals.",
+  "main": "fake_socket.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/elroy-io/fakesocket.git"
+  },
+  "keywords": [
+    "elroy",
+    "fake",
+    "socket",
+    "tcp",
+    "socket"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/elroy-io/fakesocket/issues"
+  },
+  "homepage": "https://github.com/elroy-io/fakesocket"
+}
